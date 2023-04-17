@@ -2,8 +2,10 @@
   "compilerOptions": {
     "baseUrl": "./src",
     "paths": {
-      "@scenes/*": ["./scenes/*"],
       "@assets/*": ["./assets/*"],
+      "@components/*": ["./components/*"],
+      "@phaser/*": ["./phaser/*"],
+      "@scenes/*": ["./scenes/*"],
       "@utils/*": ["./utils/*"]
     }
   }
